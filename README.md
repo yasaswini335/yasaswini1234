@@ -1,3 +1,3 @@
-# URLShort-Tutorial-YT
-Go To Tech Notebook's Youtube Channel To Watch Tutorial Videos on the ShortURL Project
+# URLShortner
+this is webapp assignment
 "# yasaswini1234" 
